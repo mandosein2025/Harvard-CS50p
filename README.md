@@ -1,11 +1,11 @@
 # Harvard CS50p
 
-[![Certificate](./static/CS50P-A4.png)](https://certificates.cs50.io/2dc4f1c0-2c67-4c61-8b74-7b9703cffd20.png?size=a4)
+[![Certificate](CS50P.png)]
 ### These are my solutions for CS50's Introduction to Programming with Python 2025.
-### Final Project: [Instagram Scraper](https://www.youtube.com/watch?v=rD8VCxQsC5w)
+### Final Project: Face Recognition Security System
 <br/>
 
-[Live Demo Final Project](https://www.youtube.com/watch?v=jFaOT7lV1io)
+[Live Demo Final Project](https://youtu.be/svjGIUoibZQ)
 
 <br/>
 
