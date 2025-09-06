@@ -1,6 +1,6 @@
 # Harvard CS50p
 
-[![Certificate](CS50P.png)]
+![Certificate](CS50P.png)
 ### These are my solutions for CS50's Introduction to Programming with Python 2025.
 ### Final Project: Face Recognition Security System
 <br/>
